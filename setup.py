@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name="emfrytestingpackages",
+    name="emfrytestingpackages2",
     version="0.2.0",
     author="Emily Fry",
     author_email="emfry1010@gmail.com",
